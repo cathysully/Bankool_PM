@@ -1936,3 +1936,13 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u51 {
+  border-width:0px;
+  position:absolute;
+  left:30px;
+  top:150px;
+  width:180px;
+  height:40px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
