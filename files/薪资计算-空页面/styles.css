@@ -331,3 +331,13 @@
   white-space:nowrap;
   text-transform:none;
 }
+#u67 {
+  border-width:0px;
+  position:absolute;
+  left:180px;
+  top:63px;
+  width:135px;
+  height:37px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
